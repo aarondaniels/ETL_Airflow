@@ -1,0 +1,350 @@
+[2022-07-21 20:20:13,567] {scheduler_job.py:182} INFO - Started process (PID=169) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:20:13,572] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:20:13,584] {logging_mixin.py:104} INFO - [2022-07-21 20:20:13,584] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:20:13,829] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:20:17,927] {logging_mixin.py:104} INFO - [2022-07-21 20:20:17,927] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-21 20:20:18,055] {logging_mixin.py:104} INFO - [2022-07-21 20:20:18,053] {dag.py:2306} INFO - Setting next_dagrun for hello_world to 2022-07-20 12:00:00+00:00
+[2022-07-21 20:20:18,131] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 4.586 seconds
+[2022-07-21 20:20:48,419] {scheduler_job.py:182} INFO - Started process (PID=209) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:20:48,425] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:20:48,431] {logging_mixin.py:104} INFO - [2022-07-21 20:20:48,430] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:20:48,553] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:20:48,669] {logging_mixin.py:104} INFO - [2022-07-21 20:20:48,668] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-21 20:20:48,840] {logging_mixin.py:104} INFO - [2022-07-21 20:20:48,840] {dag.py:2306} INFO - Setting next_dagrun for hello_world to 2022-07-20 12:00:00+00:00
+[2022-07-21 20:20:48,888] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.496 seconds
+[2022-07-21 20:21:19,264] {scheduler_job.py:182} INFO - Started process (PID=240) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:21:19,270] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:21:19,279] {logging_mixin.py:104} INFO - [2022-07-21 20:21:19,278] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:21:19,418] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:21:19,548] {logging_mixin.py:104} INFO - [2022-07-21 20:21:19,547] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-21 20:21:19,740] {logging_mixin.py:104} INFO - [2022-07-21 20:21:19,740] {dag.py:2306} INFO - Setting next_dagrun for hello_world to 2022-07-20 12:00:00+00:00
+[2022-07-21 20:21:19,783] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.536 seconds
+[2022-07-21 20:21:49,998] {scheduler_job.py:182} INFO - Started process (PID=275) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:21:50,006] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:21:50,013] {logging_mixin.py:104} INFO - [2022-07-21 20:21:50,012] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:21:50,161] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:21:50,328] {logging_mixin.py:104} INFO - [2022-07-21 20:21:50,327] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-21 20:21:50,504] {logging_mixin.py:104} INFO - [2022-07-21 20:21:50,503] {dag.py:2306} INFO - Setting next_dagrun for hello_world to 2022-07-20 12:00:00+00:00
+[2022-07-21 20:21:50,543] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.566 seconds
+[2022-07-21 20:22:20,781] {scheduler_job.py:182} INFO - Started process (PID=311) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:22:20,789] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:22:20,796] {logging_mixin.py:104} INFO - [2022-07-21 20:22:20,795] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:22:20,915] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:22:20,990] {logging_mixin.py:104} INFO - [2022-07-21 20:22:20,989] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-21 20:22:21,099] {logging_mixin.py:104} INFO - [2022-07-21 20:22:21,098] {dag.py:2306} INFO - Setting next_dagrun for hello_world to 2022-07-20 12:00:00+00:00
+[2022-07-21 20:22:21,137] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.373 seconds
+[2022-07-21 20:22:51,341] {scheduler_job.py:182} INFO - Started process (PID=335) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:22:51,347] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:22:51,353] {logging_mixin.py:104} INFO - [2022-07-21 20:22:51,352] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:22:51,434] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:22:51,526] {logging_mixin.py:104} INFO - [2022-07-21 20:22:51,524] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-21 20:22:51,635] {logging_mixin.py:104} INFO - [2022-07-21 20:22:51,634] {dag.py:2306} INFO - Setting next_dagrun for hello_world to 2022-07-20 12:00:00+00:00
+[2022-07-21 20:22:51,663] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.333 seconds
+[2022-07-21 20:23:21,863] {scheduler_job.py:182} INFO - Started process (PID=372) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:23:21,873] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:23:21,885] {logging_mixin.py:104} INFO - [2022-07-21 20:23:21,883] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:23:22,019] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:23:22,131] {logging_mixin.py:104} INFO - [2022-07-21 20:23:22,131] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-21 20:23:22,240] {logging_mixin.py:104} INFO - [2022-07-21 20:23:22,240] {dag.py:2306} INFO - Setting next_dagrun for hello_world to 2022-07-20 12:00:00+00:00
+[2022-07-21 20:23:22,274] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.435 seconds
+[2022-07-21 20:23:52,503] {scheduler_job.py:182} INFO - Started process (PID=395) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:23:52,508] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:23:52,513] {logging_mixin.py:104} INFO - [2022-07-21 20:23:52,512] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:23:52,593] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:23:52,667] {logging_mixin.py:104} INFO - [2022-07-21 20:23:52,666] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-21 20:23:52,765] {logging_mixin.py:104} INFO - [2022-07-21 20:23:52,765] {dag.py:2306} INFO - Setting next_dagrun for hello_world to 2022-07-20 12:00:00+00:00
+[2022-07-21 20:23:52,802] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.312 seconds
+[2022-07-21 20:24:23,007] {scheduler_job.py:182} INFO - Started process (PID=432) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:24:23,015] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:24:23,021] {logging_mixin.py:104} INFO - [2022-07-21 20:24:23,021] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:24:23,132] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:24:23,235] {logging_mixin.py:104} INFO - [2022-07-21 20:24:23,235] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-21 20:24:23,383] {logging_mixin.py:104} INFO - [2022-07-21 20:24:23,382] {dag.py:2306} INFO - Setting next_dagrun for hello_world to 2022-07-20 12:00:00+00:00
+[2022-07-21 20:24:23,424] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.437 seconds
+[2022-07-21 20:24:53,649] {scheduler_job.py:182} INFO - Started process (PID=457) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:24:53,660] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:24:53,667] {logging_mixin.py:104} INFO - [2022-07-21 20:24:53,666] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:24:53,750] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:24:53,831] {logging_mixin.py:104} INFO - [2022-07-21 20:24:53,830] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-21 20:24:53,946] {logging_mixin.py:104} INFO - [2022-07-21 20:24:53,945] {dag.py:2306} INFO - Setting next_dagrun for hello_world to 2022-07-20 12:00:00+00:00
+[2022-07-21 20:24:53,982] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.350 seconds
+[2022-07-21 20:25:24,198] {scheduler_job.py:182} INFO - Started process (PID=495) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:25:24,206] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:25:24,213] {logging_mixin.py:104} INFO - [2022-07-21 20:25:24,212] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:25:24,325] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:25:24,409] {logging_mixin.py:104} INFO - [2022-07-21 20:25:24,409] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-21 20:25:24,519] {logging_mixin.py:104} INFO - [2022-07-21 20:25:24,518] {dag.py:2306} INFO - Setting next_dagrun for hello_world to 2022-07-20 12:00:00+00:00
+[2022-07-21 20:25:24,564] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.385 seconds
+[2022-07-21 20:25:54,768] {scheduler_job.py:182} INFO - Started process (PID=519) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:25:54,778] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:25:54,784] {logging_mixin.py:104} INFO - [2022-07-21 20:25:54,783] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:25:54,894] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:25:54,970] {logging_mixin.py:104} INFO - [2022-07-21 20:25:54,969] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-21 20:25:55,070] {logging_mixin.py:104} INFO - [2022-07-21 20:25:55,070] {dag.py:2306} INFO - Setting next_dagrun for hello_world to 2022-07-20 12:00:00+00:00
+[2022-07-21 20:25:55,108] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.351 seconds
+[2022-07-21 20:26:25,280] {scheduler_job.py:182} INFO - Started process (PID=559) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:26:25,288] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:26:25,294] {logging_mixin.py:104} INFO - [2022-07-21 20:26:25,293] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:26:25,414] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:26:25,513] {logging_mixin.py:104} INFO - [2022-07-21 20:26:25,512] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-21 20:26:25,674] {logging_mixin.py:104} INFO - [2022-07-21 20:26:25,673] {dag.py:2306} INFO - Setting next_dagrun for hello_world to 2022-07-20 12:00:00+00:00
+[2022-07-21 20:26:25,712] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.442 seconds
+[2022-07-21 20:26:55,922] {scheduler_job.py:182} INFO - Started process (PID=581) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:26:55,930] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:26:55,939] {logging_mixin.py:104} INFO - [2022-07-21 20:26:55,935] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:26:56,014] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:26:56,108] {logging_mixin.py:104} INFO - [2022-07-21 20:26:56,107] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-21 20:26:56,228] {logging_mixin.py:104} INFO - [2022-07-21 20:26:56,228] {dag.py:2306} INFO - Setting next_dagrun for hello_world to 2022-07-20 12:00:00+00:00
+[2022-07-21 20:26:56,255] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.345 seconds
+[2022-07-21 20:27:26,450] {scheduler_job.py:182} INFO - Started process (PID=625) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:27:26,457] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:27:26,463] {logging_mixin.py:104} INFO - [2022-07-21 20:27:26,462] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:27:26,562] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:27:26,651] {logging_mixin.py:104} INFO - [2022-07-21 20:27:26,650] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-21 20:27:26,750] {logging_mixin.py:104} INFO - [2022-07-21 20:27:26,749] {dag.py:2306} INFO - Setting next_dagrun for hello_world to 2022-07-20 12:00:00+00:00
+[2022-07-21 20:27:26,778] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.339 seconds
+[2022-07-21 20:27:57,000] {scheduler_job.py:182} INFO - Started process (PID=646) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:27:57,008] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:27:57,013] {logging_mixin.py:104} INFO - [2022-07-21 20:27:57,013] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:27:57,096] {scheduler_job.py:643} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:27:57,180] {logging_mixin.py:104} INFO - [2022-07-21 20:27:57,180] {dag.py:1833} INFO - Sync 1 DAGs
+[2022-07-21 20:27:57,302] {logging_mixin.py:104} INFO - [2022-07-21 20:27:57,301] {dag.py:2306} INFO - Setting next_dagrun for hello_world to 2022-07-20 12:00:00+00:00
+[2022-07-21 20:27:57,330] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.345 seconds
+[2022-07-21 20:28:05,090] {scheduler_job.py:182} INFO - Started process (PID=669) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:28:05,097] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:28:05,102] {logging_mixin.py:104} INFO - [2022-07-21 20:28:05,101] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:28:05,201] {logging_mixin.py:104} INFO - [2022-07-21 20:28:05,190] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/SampleDAG.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/SampleDAG.py", line 24, in <module>
+    Start_date = datetime(2017,3,20), catchup = False)
+TypeError: __init__() got an unexpected keyword argument 'Start_date'
+[2022-07-21 20:28:05,210] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:28:05,288] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.213 seconds
+[2022-07-21 20:28:35,393] {scheduler_job.py:182} INFO - Started process (PID=692) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:28:35,400] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:28:35,406] {logging_mixin.py:104} INFO - [2022-07-21 20:28:35,405] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:28:35,467] {logging_mixin.py:104} INFO - [2022-07-21 20:28:35,461] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/SampleDAG.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/SampleDAG.py", line 24, in <module>
+    Start_date = datetime(2017,3,20), catchup = False)
+TypeError: __init__() got an unexpected keyword argument 'Start_date'
+[2022-07-21 20:28:35,477] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:28:35,522] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.143 seconds
+[2022-07-21 20:29:05,744] {scheduler_job.py:182} INFO - Started process (PID=732) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:29:05,751] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:29:05,756] {logging_mixin.py:104} INFO - [2022-07-21 20:29:05,755] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:29:05,804] {logging_mixin.py:104} INFO - [2022-07-21 20:29:05,794] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/SampleDAG.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/SampleDAG.py", line 24, in <module>
+    Start_date = datetime(2017,3,20), catchup = False)
+TypeError: __init__() got an unexpected keyword argument 'Start_date'
+[2022-07-21 20:29:05,810] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:29:05,920] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.185 seconds
+[2022-07-21 20:29:35,991] {scheduler_job.py:182} INFO - Started process (PID=754) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:29:35,998] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:29:36,003] {logging_mixin.py:104} INFO - [2022-07-21 20:29:36,003] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:29:36,049] {logging_mixin.py:104} INFO - [2022-07-21 20:29:36,039] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/SampleDAG.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/SampleDAG.py", line 24, in <module>
+    Start_date = datetime(2017,3,20), catchup = False)
+TypeError: __init__() got an unexpected keyword argument 'Start_date'
+[2022-07-21 20:29:36,054] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:29:36,100] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.119 seconds
+[2022-07-21 20:30:06,422] {scheduler_job.py:182} INFO - Started process (PID=794) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:30:06,438] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:30:06,447] {logging_mixin.py:104} INFO - [2022-07-21 20:30:06,446] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:30:06,528] {logging_mixin.py:104} INFO - [2022-07-21 20:30:06,514] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/SampleDAG.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/SampleDAG.py", line 24, in <module>
+    Start_date = datetime(2017,3,20), catchup = False)
+TypeError: __init__() got an unexpected keyword argument 'Start_date'
+[2022-07-21 20:30:06,535] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:30:06,606] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.196 seconds
+[2022-07-21 20:30:36,786] {scheduler_job.py:182} INFO - Started process (PID=818) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:30:36,795] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:30:36,802] {logging_mixin.py:104} INFO - [2022-07-21 20:30:36,801] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:30:36,867] {logging_mixin.py:104} INFO - [2022-07-21 20:30:36,856] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/SampleDAG.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/SampleDAG.py", line 24, in <module>
+    Start_date = datetime(2017,3,20), catchup = False)
+TypeError: __init__() got an unexpected keyword argument 'Start_date'
+[2022-07-21 20:30:36,877] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:30:36,927] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.153 seconds
+[2022-07-21 20:31:07,146] {scheduler_job.py:182} INFO - Started process (PID=858) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:31:07,154] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:31:07,159] {logging_mixin.py:104} INFO - [2022-07-21 20:31:07,159] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:31:07,223] {logging_mixin.py:104} INFO - [2022-07-21 20:31:07,208] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/SampleDAG.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/SampleDAG.py", line 24, in <module>
+    Start_date = datetime(2017,3,20), catchup = False)
+TypeError: __init__() got an unexpected keyword argument 'Start_date'
+[2022-07-21 20:31:07,229] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:31:07,283] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.156 seconds
+[2022-07-21 20:31:16,272] {scheduler_job.py:182} INFO - Started process (PID=860) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:31:16,278] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:31:16,285] {logging_mixin.py:104} INFO - [2022-07-21 20:31:16,284] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:31:16,400] {logging_mixin.py:104} INFO - [2022-07-21 20:31:16,392] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/SampleDAG.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/SampleDAG.py", line 26, in <module>
+    Start_date = datetime(2017,3,20), catchup = False)
+TypeError: __init__() got an unexpected keyword argument 'Start_date'
+[2022-07-21 20:31:16,405] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:31:16,444] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.180 seconds
+[2022-07-21 20:31:46,689] {scheduler_job.py:182} INFO - Started process (PID=900) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:31:46,700] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:31:46,707] {logging_mixin.py:104} INFO - [2022-07-21 20:31:46,706] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:31:46,801] {logging_mixin.py:104} INFO - [2022-07-21 20:31:46,783] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/SampleDAG.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/SampleDAG.py", line 26, in <module>
+    Start_date = datetime(2017,3,20), catchup = False)
+TypeError: __init__() got an unexpected keyword argument 'Start_date'
+[2022-07-21 20:31:46,811] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:31:46,894] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.215 seconds
+[2022-07-21 20:32:17,069] {scheduler_job.py:182} INFO - Started process (PID=926) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:32:17,076] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:32:17,080] {logging_mixin.py:104} INFO - [2022-07-21 20:32:17,079] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:32:17,129] {logging_mixin.py:104} INFO - [2022-07-21 20:32:17,119] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/SampleDAG.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/SampleDAG.py", line 26, in <module>
+    Start_date = datetime(2017,3,20), catchup = False)
+TypeError: __init__() got an unexpected keyword argument 'Start_date'
+[2022-07-21 20:32:17,138] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:32:17,183] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.123 seconds
+[2022-07-21 20:34:27,969] {scheduler_job.py:182} INFO - Started process (PID=172) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:34:27,981] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:34:27,988] {logging_mixin.py:104} INFO - [2022-07-21 20:34:27,988] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:34:28,107] {logging_mixin.py:104} INFO - [2022-07-21 20:34:28,093] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/SampleDAG.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/SampleDAG.py", line 26, in <module>
+    Start_date = datetime(2017,3,20), catchup = False)
+TypeError: __init__() got an unexpected keyword argument 'Start_date'
+[2022-07-21 20:34:28,117] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:34:28,208] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.251 seconds
+[2022-07-21 20:34:58,737] {scheduler_job.py:182} INFO - Started process (PID=210) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:34:58,744] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:34:58,754] {logging_mixin.py:104} INFO - [2022-07-21 20:34:58,753] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:34:58,867] {logging_mixin.py:104} INFO - [2022-07-21 20:34:58,842] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/SampleDAG.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/SampleDAG.py", line 26, in <module>
+    Start_date = datetime(2017,3,20), catchup = False)
+TypeError: __init__() got an unexpected keyword argument 'Start_date'
+[2022-07-21 20:34:58,875] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:34:58,987] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.279 seconds
+[2022-07-21 20:35:29,211] {scheduler_job.py:182} INFO - Started process (PID=237) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:35:29,218] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:35:29,224] {logging_mixin.py:104} INFO - [2022-07-21 20:35:29,223] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:35:29,308] {logging_mixin.py:104} INFO - [2022-07-21 20:35:29,295] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/SampleDAG.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/SampleDAG.py", line 26, in <module>
+    Start_date = datetime(2017,3,20), catchup = False)
+TypeError: __init__() got an unexpected keyword argument 'Start_date'
+[2022-07-21 20:35:29,314] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:35:29,380] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.186 seconds
+[2022-07-21 20:35:59,691] {scheduler_job.py:182} INFO - Started process (PID=277) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:35:59,701] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:35:59,718] {logging_mixin.py:104} INFO - [2022-07-21 20:35:59,716] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:35:59,808] {logging_mixin.py:104} INFO - [2022-07-21 20:35:59,794] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/SampleDAG.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/SampleDAG.py", line 26, in <module>
+    Start_date = datetime(2017,3,20), catchup = False)
+TypeError: __init__() got an unexpected keyword argument 'Start_date'
+[2022-07-21 20:35:59,824] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:35:59,905] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.245 seconds
+[2022-07-21 20:36:30,133] {scheduler_job.py:182} INFO - Started process (PID=308) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:36:30,141] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:36:30,147] {logging_mixin.py:104} INFO - [2022-07-21 20:36:30,146] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:36:30,227] {logging_mixin.py:104} INFO - [2022-07-21 20:36:30,215] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/SampleDAG.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/SampleDAG.py", line 26, in <module>
+    Start_date = datetime(2017,3,20), catchup = False)
+TypeError: __init__() got an unexpected keyword argument 'Start_date'
+[2022-07-21 20:36:30,236] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:36:30,296] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.199 seconds
+[2022-07-21 20:36:41,218] {scheduler_job.py:182} INFO - Started process (PID=319) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:36:41,224] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:36:41,234] {logging_mixin.py:104} INFO - [2022-07-21 20:36:41,233] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:36:41,360] {logging_mixin.py:104} INFO - [2022-07-21 20:36:41,338] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/SampleDAG.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/SampleDAG.py", line 26, in <module>
+    Start_date = datetime(2017,3,20), catchup = False)
+TypeError: __init__() got an unexpected keyword argument 'Start_date'
+[2022-07-21 20:36:41,372] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:36:41,479] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.270 seconds
+[2022-07-21 20:37:11,755] {scheduler_job.py:182} INFO - Started process (PID=356) to work on /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:37:11,764] {scheduler_job.py:633} INFO - Processing file /opt/airflow/dags/SampleDAG.py for tasks to queue
+[2022-07-21 20:37:11,771] {logging_mixin.py:104} INFO - [2022-07-21 20:37:11,771] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:37:11,880] {logging_mixin.py:104} INFO - [2022-07-21 20:37:11,861] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/SampleDAG.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/SampleDAG.py", line 26, in <module>
+    Start_date = datetime(2017,3,20), catchup = False)
+TypeError: __init__() got an unexpected keyword argument 'Start_date'
+[2022-07-21 20:37:11,900] {scheduler_job.py:645} WARNING - No viable dags retrieved from /opt/airflow/dags/SampleDAG.py
+[2022-07-21 20:37:12,009] {scheduler_job.py:190} INFO - Processing /opt/airflow/dags/SampleDAG.py took 0.268 seconds
