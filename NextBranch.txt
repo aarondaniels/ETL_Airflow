@@ -1,0 +1,4 @@
+1. integrate PySpark into airflow workflow. i.e. create a spark processing .py file to capture data from source and place into a view.
+2. Connect with cloud based datawarehouses instead of having data source be a .csv that is part of the repo
+3. Improve dags with more steps. Create/augment the python file, SampleDAG.py, with more DAG functions to manipulate/analyze the data 
+3. Send DAG output to database
