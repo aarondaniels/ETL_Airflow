@@ -23,7 +23,7 @@ dag = DAG(
     'python_square_operator',
     description = 'Squaring a number using Airflow',
     schedule_interval = '0 12 * * *',
-    Start_date = datetime(2017,3,20), catchup = False)
+    start_date = datetime(2017,3,20), catchup = False)
 
 #Define task
 t1 = PythonOperator(
