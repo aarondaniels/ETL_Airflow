@@ -47,7 +47,16 @@ Create an empty folder called airflow on your local machine. Navigate to the air
 
 Open the generated docker-compose.yaml file. Under "environment", set teh AIRFLOW__CORE__LOAD_EXAMPLES variable equal to false.
 
-Open the docker by navigating to the directory with docker-compose.yaml in terminal and executing `docker-compose up`. When the container is established, an interface will be accessible locally at https://localhost:8080. The system can be accessed by using the default user name and password, "airflow."
+Open the docker by navigating to the directory with docker-compose.yaml in terminal and executing `docker-compose up`. When the container is established, an interface will be accessible locally at https://localhost:8080. 
+
+<insert image of airflow>
+The system can be accessed by using the default user name and password, "airflow."
+
+<insert image of DAGs>
+
+Start the DAG by toggling the switch to the leeft of its name. Select the DAG and open up the Graph View. Select the DAG again and open "logs" to confirm the operation was run successfully. 
+
+<insert image of logs>
 
 
 
